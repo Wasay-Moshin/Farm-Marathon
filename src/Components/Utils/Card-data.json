@@ -1,0 +1,50 @@
+[
+    {
+        "id":"1",
+        "img": "Assets/GMT94.png",
+        "name":"APY 600%",
+        "deposite": "GMT"
+    },
+    {
+        "id":"2",
+        "img": "Assets/BUSD94.png",
+        "name":"APY 3500%",
+        "deposite": "BUSD"
+    }, 
+    {
+        "id":"3",
+        "img": "Assets/USDT94.png",
+        "name":"APY 4000%",
+        "deposite": "USTD"
+    }, 
+    {
+        "id":"4",
+        "img": "Assets/USDC94.png",
+        "name":"APY 4000%",
+        "deposite": "USDC"
+    }, 
+    {
+        "id":"5",
+        "img": "Assets/WBNB94.png",
+        "name":"APY 3400%",
+        "deposite": "WBNB"
+    }, 
+    {
+        "id":"6",
+        "img": "Assets/CAKE94.png",
+        "name":"APY 3500%",
+        "deposite": "CAKE"
+    }, 
+    {
+        "id":"7",
+        "img": "Assets/ETH94.png",
+        "name":"APY 7800%",
+        "deposite": "ETH"
+    },
+    {
+        "id":"7",
+        "img": "Assets/1INCH94.png",
+        "name":"APY 3400%",
+        "deposite": "1INCH94"
+    }
+]
